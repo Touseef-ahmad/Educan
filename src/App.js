@@ -1,7 +1,29 @@
-import React from 'react'
+import React,{Component} from 'react'
 
-function App() {
-  return <h1>Our Electron App!!. </h1>
+class App extends Component{
+
+  render(){
+    return(
+      <div>
+
+          <header>
+
+          </header>
+          
+          <div id="main-content">
+
+          </div>
+          
+          <footer>
+
+          </footer>
+
+
+
+      </div>
+    );
+  }
+
 }
 
 export default App
