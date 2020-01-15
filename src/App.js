@@ -28,6 +28,7 @@ class App extends Component{
   <a href="#" data-target="slide-out" className="sidenav-trigger"><i className="material-icons">menu</i></a>
              
         <div id="main-content">
+      
 
           </div>
           
